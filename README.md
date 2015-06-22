@@ -1,0 +1,2 @@
+# ManiaMods
+Minecraft Mania mods
